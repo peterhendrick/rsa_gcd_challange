@@ -1,6 +1,6 @@
 A solution to the puzzle found here: http://www.loyalty.org/~schoen/rsa/
 
-Python file that will craete private rsa keys for every vulnerable public key .pem file found in challenge.zip
+Python file that will create private rsa keys for every vulnerable public key .pem file found in challenge.zip
 
 To download, type 
 ```
