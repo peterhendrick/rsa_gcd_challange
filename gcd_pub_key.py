@@ -2,8 +2,6 @@ from Crypto.PublicKey import RSA
 import os
 from pydash import py_
 import math
-from base64 import b64decode
-import binascii
 
 
 file_list = os.listdir("./challenge")
